@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Answer 5</title>  
+    </head>
+    <body>
+        <?php  
+
+        for ($i = 10; $i <= 100; $i++) {
+
+            if ($i % 2 != 0) {
+                echo $i . "<br>";
+                }
+
+                }
+
+        
+
+        ?>  
+    </body>
+</html>
