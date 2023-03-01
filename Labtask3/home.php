@@ -4,37 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FORGOT PASSWORD</title>
+    <title>PUBLIC Home</title>
 </head>
 <body>
     <center>
+
     <table border = "1" width ="50%" height = "30">
         <tr>
-            <td width = "70%">
+            <td width = "60%">
             <p><b> X COMPANY </b></p>
             </td>
 
             <td>
-            <a href = "Home.html">Home</a> |
-            <a href = "Login.html">Login</a> |
-            <a href = "Registration.html">Registration</a>
+            <a href = "home.php">Home</a> |
+            <a href = "login.php">Login</a> |
+            <a href = "reg.php">Registration</a>
             </td>
         </tr> 
     </table> 
     
     <table border ="1" width = "50%" height = "200">
-        <td>
-            <form method ="Post" action = "logincheck.php" enctype = "">
-                <fieldset>
-                <legend>FORGOT PASSWORD</legend>
-                Enter Email:<input type = "text" email = "email" value = ""/><br></br>
-                <input type = "submit" name = "submit" value = "Submit"/>
-</fieldset>
-</form>     
-        
-
-
-
+        <tr>
+            <td><b>Welcome to XCOMPANY</b></td>    
+        </tr>
     </table>    
 
     <table border ="1" width = "50%" height = "30">

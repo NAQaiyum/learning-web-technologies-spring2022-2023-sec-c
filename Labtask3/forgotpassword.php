@@ -8,25 +8,30 @@
 </head>
 <body>
     <center>
-
-    <table border = "1" width ="50%" height = "30">
+    <table border = "1" width ="50%" height = "40">
         <tr>
             <td width = "70%">
             <p><b> X COMPANY </b></p>
             </td>
 
             <td>
-            Logged in as <a href = "Bob.html">Bob</a> |
-            <a href = "Logout.html">Log out</a> 
+            <a href = "home.php">Home</a> |
+            <a href = "login.php">Login</a> |
+            <a href = "reg.php">Registration</a>
             </td>
         </tr> 
     </table> 
     
     <table border ="1" width = "50%" height = "200">
-        <tr>
-            <td width = "50%" height = "30">Account</td>
-            
-            <td width = "50%" height = "30"><b>Welcome Bob</b><td>
+        <td>
+            <form method ="Post" action = "check.php" enctype = "">
+                <fieldset>
+                <legend>FORGOT PASSWORD</legend>
+                Enter Email:<input type = "text" email = "email" value = ""/><br></br>
+                <input type = "submit" name = "submit" value = "Submit"/>
+</fieldset>
+</form>     
+        
 
 
 

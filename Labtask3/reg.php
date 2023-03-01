@@ -16,8 +16,8 @@
             
             <td>
                 <center>
-                <a href="Dot">Home</a>
-                <a href="Dot">Login</a>
+                <a href="home.php">Home</a>
+                <a href="login.php">Login</a>
                 <a href="reg.php">Registration</a>
                 </center>
             </td>
