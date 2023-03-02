@@ -12,7 +12,7 @@
         if($name == "" && $username == "" &&  $password == "" && $password="" && $gender="" && $dob="") {
             echo "Null value";
         }else{
-           $file = fopen('user.txt', 'a');
+           $file = fopen('customer.txt', 'a');
            $user = $name."|".$username."|".$password."|".$cpassword."|".$gender."|".$dob."\r\n";
            fwrite($file, $user);
             header('location: login.php');

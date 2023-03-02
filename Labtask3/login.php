@@ -2,7 +2,7 @@
     <head>
         <title>Login</title>
     </head>
-    <body width = "50" height = "40">
+    <body>
         <form method="POST" action="check.php" enctype="" >
             <fieldset>
                 Username: <input type="text" name="username" value=""/> <br>
