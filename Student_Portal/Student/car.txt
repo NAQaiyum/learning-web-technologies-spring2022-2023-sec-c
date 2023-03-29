@@ -1,0 +1,12 @@
+
+     Slot 1  07:00 am to 05:30 pm	A Fixed car parking space will be allotted<br>
+     Slot 2	 06:00 am to 12:00 pm	A Fixed car parking space will be allotted<br><br>
+     
+     Driveway	07:00 am to 05:30 pm<br>
+     
+     This facility is not applicable for self-driven vehicles.<br><br>
+     
+     No fixed parking space allotted, but the basement number will be defined in the parking card.
+     Vehicle will be parked on the driveway of the basement where the driver must be present at all times.
+     Vehicle which is registered under this package is ensured with a space in the driveway of the basement, but the space will not be 
+     a fixed one.
