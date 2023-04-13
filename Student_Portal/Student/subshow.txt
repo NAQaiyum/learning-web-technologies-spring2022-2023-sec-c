@@ -1,1 +1,0 @@
-1.Computer   2.Bangla   3.English   4.ICT   5.Math
