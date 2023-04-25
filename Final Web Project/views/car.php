@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Car</title>
+	<link rel="stylesheet" type="text/css" href="../css/car.css"><br>
 </head>
 <body>
 	<?php
@@ -12,13 +13,13 @@
 	$info = readcar();
 	?>
 
-    <center><h1>Car Prking Schedule</h1></center>
-	<table width="60%">
+    <center><h1>Car Schedule</h1></center><br><br>
+	<table width="80%">
 		<tr>
-			<td><h1>Schedule</h1></td>
-			<td><h1>Time</h1></td>
-			<!-- <th>Course</th> -->
+			<td><b>Schedule</b></td>
+			<td><b>Time</b></td>
 		</tr>
+		
 		<?php
 		// Loop through each user and display their information in a table row
 		if ($info->num_rows > 0) {
@@ -35,7 +36,7 @@
 		?>
 	</table>
 
-    <br>
+    <br><br><br>
     <a href="parking.php">Back</a>
 </body>
 </html>

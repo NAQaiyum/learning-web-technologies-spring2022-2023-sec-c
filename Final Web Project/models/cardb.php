@@ -4,7 +4,7 @@
     function addcar($car){
         $con = getConnection();
         // $sql = "insert into notification values('','$message' , '$time' )";
-        $sql = "insert into car values('', '{$car['mission']}', '{$car['date']}' )";
+        $sql = "insert into car values('', '{$car['schedule']}', '{$car['time']}' )";
         $status=mysqli_query($con, $sql);
         return $status;
     }

@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Agreement Form</title>
+    <link rel="stylesheet" type="text/css" href="../css/agree.css"><br>
 </head>
 <body>
     <h1>Agreement Form</h1>
@@ -14,6 +15,8 @@
         <input type="password" id="password" name="password"><br><br>
 
         <input type="submit" value="Submit">
+        <br>
+        <br>
         <br>
         <br>
 

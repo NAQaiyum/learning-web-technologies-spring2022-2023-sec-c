@@ -6,6 +6,7 @@
 
 
 <h1>Thesis</h1>
+<link rel="stylesheet" type="text/css" href="../css/thesis.css"><br>
 
 <a href="apply_thesis.php">Apply For Thesis</a><br>
 <a href="publish_thesis.php">Publish Thesis</a><br>

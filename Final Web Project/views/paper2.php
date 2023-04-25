@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Paper2</title>
+    <link rel="stylesheet" type="text/css" href="../css/paper2.css">
 </head>
 <body>
     <h1>Publish Paper 2</h1>

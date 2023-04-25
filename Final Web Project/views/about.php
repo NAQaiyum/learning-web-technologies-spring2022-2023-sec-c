@@ -3,9 +3,9 @@
     if(isset($_SESSION['flag'])){
 ?>
 
+<link rel="stylesheet" type="text/css" href="../css/about.css"><br>
 
-
-<h1>About Us</h1>
+<h1>About Us</h1><br>
 
 <a href="mission.php">Mission</a><br>
 <a href="vision.php">Vision</a><br>

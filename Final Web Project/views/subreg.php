@@ -6,8 +6,9 @@
 
 
 <h1>Subject Registration</h1>
+<link rel="stylesheet" type="text/css" href="../css/subreg.css">
 
-<a href="show_sub.php">Show All Subject</a><br>
+<a href="showsubajax.php">Show All Subject</a><br>
 <a href="reg_sub.php">Subject Registration Form</a><br>
 
 

@@ -6,9 +6,11 @@
 
 
 <h1>Parking Schedule</h1>
+<link rel="stylesheet" type="text/css" href="../css/parking.css"><br><br><br>
 
-<a href="car.php">Car Parking Schedule</a><br>
-<a href="bike.php">Bike Parking Schedule</a><br>
+
+<a href="carajax.php">Car Parking Schedule</a><br>
+<a href="bikeajax.php">Bike Parking Schedule</a><br>
 
 
 <br>

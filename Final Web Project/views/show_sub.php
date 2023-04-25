@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Show Sub</title>
+	<link rel="stylesheet" type="text/css" href="../css/car.css"><br>
 </head>
 <body>
 	<?php
@@ -12,13 +13,14 @@
 	$info = readsub();
 	?>
 
-    <center><h1>Remaining All Subject & Section</h1></center>
-	<table width="30%">
+    <center><h1>All Subject & Section</h1></center><br><br>
+	<table width="50%">
 		<tr>
-			<td><h1>Name</h1></td>
-			<td><h1>Section</h1></td>
+			<td><b>Name</b></td>
+			<td><b>Section</b></td>
 			<!-- <th>Course</th> -->
 		</tr>
+		
 		<?php
 		// Loop through each user and display their information in a table row
 		if ($info->num_rows > 0) {
@@ -35,7 +37,7 @@
 		?>
 	</table>
 
-    <br>
+    <br><br><br>
     <a href="subreg.php">Back</a>
 </body>
 </html>

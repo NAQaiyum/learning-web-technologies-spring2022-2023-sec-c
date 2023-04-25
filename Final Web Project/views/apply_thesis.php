@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Thesis Form</title>
+    <link rel="stylesheet" type="text/css" href="../css/app_thesis.css"><br>
+    <script src="../js/thesisvalidation.js"></script>
 </head>
 <body>
     <h1>Thesis Form</h1>

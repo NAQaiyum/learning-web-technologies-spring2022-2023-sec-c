@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Registration Form</title>
+    <link rel="stylesheet" type="text/css" href="../css/regsub.css"><br>
+    <script src="../js/regsubvalidation.js"></script>
 </head>
 <body>
     <h1>Subject Registration Form</h1>
@@ -14,6 +16,8 @@
         <input type="section" id="section" name="section"><br><br>
 
         <input type="submit" value="Submit">
+        <br>
+        <br>
         <br>
         <br>
 

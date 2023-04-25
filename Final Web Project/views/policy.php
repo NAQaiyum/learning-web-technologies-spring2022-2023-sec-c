@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Policy</title>
+	<link rel="stylesheet" type="text/css" href="../css/policy.css"><br>
 </head>
 <body>
 	<?php
@@ -12,13 +13,14 @@
 	$info = readpol();
 	?>
 
-    <center><h1>Policy</h1></center>
-	<table width="60%">
+    <center><h1>Policy</h1></center><br><br>
+	<table width="80%">
 		<tr>
-			<td><h1>Policy</h1></td>
-			<td><h1>Type</h1></td>
+			<td><b>Policy</b></td>
+			<td><b>Type</b></td>
 			<!-- <th>Course</th> -->
 		</tr>
+		
 		<?php
 		// Loop through each user and display their information in a table row
 		if ($info->num_rows > 0) {
@@ -35,7 +37,7 @@
 		?>
 	</table>
 
-    <br>
+    <br><br><br>
     <a href="about.php">Back</a>
 </body>
 </html>
