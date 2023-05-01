@@ -1,8 +1,6 @@
 function validateForm() {
     var username = document.getElementById("username").value;
     var email = document.getElementById("email").value;
-    
-
     var username_error = document.getElementById("username_error");
     var email_error = document.getElementById("email_error");
 
